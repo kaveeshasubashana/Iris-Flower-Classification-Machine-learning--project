@@ -15,7 +15,7 @@ Iris-setosa – Small flowers with short petals, usually bright white or violet.
 Iris-versicolor – Medium-sized flowers with colorful petals, often blue or purple.
 
 Iris-virginica – Large flowers with long petals, typically violet-blue.
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/9160c8ae-95e2-4ca9-8f06-dee6eefd9cef" />
+<img width="1401" height="623" alt="image" src="https://github.com/user-attachments/assets/9160c8ae-95e2-4ca9-8f06-dee6eefd9cef" />
 
 
 ## Features measured in the dataset:
