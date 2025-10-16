@@ -157,3 +157,9 @@ Helps gardeners or horticulturists classify plants and maintain records.
 Serves as a template for building other classification models for real-world data.
 
 Shows how to train, test, and deploy a model using Flask.
+
+
+# 📷 Web Preview
+
+<img width="1185" height="655" alt="image" src="https://github.com/user-attachments/assets/9c246f86-0418-46ac-9e15-06ef4cc2525a" />
+
