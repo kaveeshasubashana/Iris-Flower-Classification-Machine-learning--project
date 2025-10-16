@@ -4,7 +4,9 @@ A machine learning project that predicts the species of an Iris flower using K-N
 
 ## 🔹 About Iris Flowers
 
-The Iris flower is a popular flower used in machine learning datasets because it has clear differences between species while being easy to measure.
+The Iris is a genus of flowering plants with over 300 species found across the world. Known for their beautiful and colorful blooms — typically purple, blue, white, or yellow — these flowers are named after Iris, the Greek goddess of the rainbow, symbolizing their wide range of colors.
+
+The Iris dataset is one of the most popular datasets used in machine learning because the species have clear, measurable differences, making it ideal for learning classification concepts.
 
 Species in the dataset:
 
