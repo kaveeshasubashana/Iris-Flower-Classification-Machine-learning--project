@@ -96,10 +96,12 @@ Petal Width (cm)
 Model predicts and displays the species of the Iris flower instantly.
 
 # 🔹 Example Inputs and Outputs
-Sepal Length	Sepal Width	Petal Length	Petal Width	Predicted Species
-5.1	3.5	1.4	0.2	Iris-setosa
-6.0	2.9	4.5	1.5	Iris-versicolor
-6.3	3.3	6.0	2.5	Iris-virginica
+| Sepal Length | Sepal Width | Petal Length | Petal Width | Predicted Species |
+| ------------ | ----------- | ------------ | ----------- | ----------------- |
+| 5.1          | 3.5         | 1.4          | 0.2         | Iris-setosa       |
+| 6.0          | 2.9         | 4.5          | 1.5         | Iris-versicolor   |
+| 6.3          | 3.3         | 6.0          | 2.5         | Iris-virginica    |
+
 # 🔹 Technologies Used
 
 Python
